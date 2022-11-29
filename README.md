@@ -29,10 +29,10 @@ Suchen mit \
 
 ##### Auf Git Hub anschauen 
 1. git status
-1. git add .
+2. git add . <!-- ich will alles hochladen der Punkt steht für alle im Ordner -->
 <!-- wenn die Bilder auch auf GitHub zu sehen sein sollen, dann  --> 
-git commit -m "add images"
-1. git commit -m + Enter
+3. git commit -m "add images"
+4. git commit -m + Enter
 2. git commit -m "Name" + Enter
-3. gtit push 
+3. git push 
 4. Refresh Page 
