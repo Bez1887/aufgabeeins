@@ -27,3 +27,12 @@ Suchen mit \
 - [ ] 
 
 
+##### Auf Git Hub anschauen 
+1. git status
+1. git add .
+<!-- wenn die Bilder auch auf GitHub zu sehen sein sollen, dann  --> 
+git commit -m "add images"
+1. git commit -m + Enter
+2. git commit -m "Name" + Enter
+3. gtit push 
+4. Refresh Page 
